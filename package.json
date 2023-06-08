@@ -1,16 +1,17 @@
 {
-  "name": "goit-react-hw-06-phonebook",
+  "name": "goit-react-hw-06",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DominikBanaskiewicz.github.io/goit-react-hw-06-phonebook-1/",
+  "homepage": "https://DominikBanaskiewicz.github.io/goit-react-hw-06-phonebook-2/",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
+    "axios": "^1.3.4",
+    "npm": "^9.6.1",
+    "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.9.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.3"
   },
@@ -41,15 +42,15 @@
   },
   "description": "This project was created with [Create React App](https://github.com/facebook/create-react-app). To get acquainted and configure additional features [refer to documentation](https://facebook.github.io/create-react-app/docs/getting-started).",
   "main": "index.js",
-  "author": "",
-  "license": "ISC",
-  "keywords": [],
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DominikBanaskiewicz/goit-react-hw-06-phonebook-2.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/DominikBanaskiewicz/goit-react-hw-06-phonebook-2/issues"
-  },
-  "devDependencies": {}
+  }
 }
